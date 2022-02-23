@@ -1,0 +1,250 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Letter of the Presbyterian ministers in the city of London presented the first of Jan. 1645, to the reverend Assembly of Divines, sitting at Westminster, by authority of Parliament, against toleration : now re-printed with some animadversions thereon.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1668</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48126</idno>
+            <idno type="STC">Wing L1581</idno>
+            <idno type="STC">ESTC R15039</idno>
+            <idno type="EEBO-CITATION">12940558</idno>
+            <idno type="OCLC">ocm 12940558</idno>
+            <idno type="VID">95871</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48126)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95871)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 388:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Letter of the Presbyterian ministers in the city of London presented the first of Jan. 1645, to the reverend Assembly of Divines, sitting at Westminster, by authority of Parliament, against toleration : now re-printed with some animadversions thereon.</title>
+                  <author>Westminster Assembly (1643-1652)</author>
+               </titleStmt>
+               <extent>[4], 11 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Johnson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1668.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Freedom of religion --  England --  Early works to 1800.</term>
+               <term>Freedom of religion --  Early works to 1800.</term>
+               <term>Dissenters, Religious --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:95871:1" rendition="simple:additions"/>
+            <p>A LETTER OF THE Presbyterian Miniſters In the CITY of LONDON, Preſented the Firſt of <hi>Jan.</hi> 1645. to the Reverend Aſſembly of DIVINES, Sitting at <hi>Weſtminſter,</hi> by Authority of <hi>Parliament,</hi> AGAINST TOLERATION.</p>
+            <p>Now Re-printed, with ſome Animadverſions thereon.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>J. Johnſon,</hi> 1668.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:95871:2"/>
+            <pb facs="tcp:95871:2"/>
+            <head>A Preface to the Reader.</head>
+            <p>IT is ſufficiently known, how the <hi>Presbyterian Party,</hi> in this Nation, having by the help of the <hi>Covenant,</hi> and <hi>force of Armes,</hi> rooted out (as they thought) <hi>Epiſcopal</hi> or <hi>Prelatical</hi> Govern<g ref="char:EOLhyphen"/>ment, Eſtabliſhed by the Known Laws of the Land, ſoon found themſelves ſupplanted <hi>in their new intended Uniformity</hi> (preſſed on all men with a moſt <hi>zealous Rigour</hi>) by their younger Brother, <hi>Independency:</hi> which under the ſmooth pretenſi<g ref="char:EOLhyphen"/>ons of <hi>Liberty of Conſcience,</hi> and <hi>Toleration,</hi> threatned <hi>Presbytery</hi> with the ſame deſtruction. Hereupon the Presbyterian Miniſters of <hi>London,</hi> meeting at <hi>Sion Colledge,</hi> drew up this enſuing Letter to the Aſſembly, convened at <hi>Weſtmin<g ref="char:EOLhyphen"/>ſter,</hi> to poſſeſs them with the unlawfulneſs of Liberty <hi>of Conſcience and Toleration;</hi> eſpecially <hi>aiming at Independency,</hi> their feared Rival. But the Intelligent Reader will eaſily diſcern how their own Arguments recoil upon themſelves. How dangerous and wicked it is in their Judge<g ref="char:EOLhyphen"/>ment
+<pb facs="tcp:95871:3"/>to Tolerate, (much more to perpetuate by a ſtanding Law) Schiſm in the Church; whe<g ref="char:EOLhyphen"/>ther of Presbytery, or Independency, of which they are ſo <hi>equally guilty,</hi> that it will be very diffi<g ref="char:EOLhyphen"/>cult, if not impoſſible, for an impartial under<g ref="char:EOLhyphen"/>ſtanding, to condemn the one, and to acquit the other: Yea, it will appear by their <hi>own Rea<g ref="char:EOLhyphen"/>ſons here alledged,</hi> how neceſſary it is to the preſer<g ref="char:EOLhyphen"/>vation of Truth and Peace, that an <hi>Uniform Obe<g ref="char:EOLhyphen"/>dience</hi> be yielded to one and the ſame eſtabliſhed Rule of <hi>Eccleſiaſtical Polity,</hi> leſt otherwiſe the <hi>people</hi> be <hi>ſeduced</hi> and <hi>drawn away from our</hi> Con<g ref="char:EOLhyphen"/>gregations; the Godly, Painful, Orthodox, and <hi>Conformable Clergy</hi> be diſcouraged; all ſorts of <hi>Se<g ref="char:EOLhyphen"/>ctaries emboldened</hi> to deſire, and endeavour the like <hi>Indulgence;</hi> the Civil State, by endleſs Diviſions, weakened; and the Church firſt diſtracted, and at laſt deſtroyed.</p>
+            <closer>
+               <hi>The God of Peace and Truth grant us a right underſtanding in all things.</hi> Amen.</closer>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:95871:3"/>
+            <head>To our Reverend, Learned, and Religious Brethren, the Prolocutor, and the reſt of the Divines Aſſembled, and now ſitting at <hi>Weſtminſter,</hi> by Autho<g ref="char:EOLhyphen"/>rity of Parliament: Theſe preſent.</head>
+            <opener>
+               <salute>Reverend and Beloved Brethren,</salute>
+            </opener>
+            <p>WE are exceedingly apprehenſive of the deſireableneſs of our Churches Peace, and of the pleaſantneſs of Brethrens Unity, knowing that when Peace is ſet upon its proper Baſis, <hi>viz.</hi> Righteouſ<g ref="char:EOLhyphen"/>neſs and Truth, it is one of the beſt poſſeſſions, both delectable and profitable; like <hi>Aarons</hi> Oint<g ref="char:EOLhyphen"/>ment, and the dew of <hi>Hermon.</hi> It is true, by rea<g ref="char:EOLhyphen"/>ſon of different lights, and different ſights among Brethren, there may be diſſenting in Opinion; yet,<note n="(a)" place="margin">What is the keeping Conven<g ref="char:EOLhyphen"/>ticles, or private Meetings, but ſe<g ref="char:EOLhyphen"/>parating from our Church-Communion.</note> 
+               <hi>Why ſhould there by any ſeparating from Church-Communion?</hi> The Churches Coat may be of divers colours, yet, Why ſhould there be any rent in it? Have we not a touch<g ref="char:EOLhyphen"/>ſtone of Truth, the good Word of God; and when all things are examined by that Word,
+<pb n="2" facs="tcp:95871:4"/>then that which is beſt may be held faſt; but firſt they muſt be known, and then examined afterward. If our diſſenting Brethren after ſo many importunate intreaties, would have been perſwaded (either in zeal to the Truth, or in ſincere love to the Churches peace and unity among Brethren, or in reſpect to their own reputation by fair and ingenuous dealing, or<note n="(b)" place="margin">Yet the Mini<g ref="char:EOLhyphen"/>ſters of this per<g ref="char:EOLhyphen"/>ſwaſion made as little Conſcience of their Subſcri<g ref="char:EOLhyphen"/>ptions, Promiſes, yea, Oaths of Ca<g ref="char:EOLhyphen"/>nanical Obedi<g ref="char:EOLhyphen"/>ence to their re<g ref="char:EOLhyphen"/>ſpective D<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oce<g ref="char:EOLhyphen"/>ſans.</note> 
+               <hi>in conſcience to their promiſe made with the Miniſter of</hi> London, <hi>now five years ſince,</hi> or any ſuch like reaſonable conſideration) at laſt to have given us a full Narrative of their Opinions, and Grounds of their Separation, we are perſwaded they would not have ſtood at ſuch a diſtance from us, as now they do: But they choſe rather to walk by their own private lights, than to unboſome themſelves to us their moſt affe<g ref="char:EOLhyphen"/>ctionate Brethren; and to ſet themſelves in an untrodden way of their own, rather than to wait what our Covenanted Refor<g ref="char:EOLhyphen"/>mation, according to the Word of God, and<note n="(c)" place="margin">Shew us the example of one Reformed Church, which alloweth her Mi<g ref="char:EOLhyphen"/>niſters Liberty not to uſe her Eſtabliſhed Rites and Ceremonies.</note> 
+               <hi>examples of the Beſt Reformed Churches,</hi> would bring forth. But the offence doth not end here, it is much that our Bre<g ref="char:EOLhyphen"/>thren ſhould ſeparate from the Church, but that they ſhould endeavour<note n="(d)" place="margin">This is plain<g ref="char:EOLhyphen"/>ly our Brethrens Deſign and En<g ref="char:EOLhyphen"/>deavour at this time.</note> 
+               <hi>to get a War<g ref="char:EOLhyphen"/>rant to authorize their Separation from it, and to have liberty (by drawing Members out of it) to weaken and diminiſh it, till (ſo far as lies in them) they have brought it to no<g ref="char:EOLhyphen"/>thing; this we think to be plainly unlawful;
+<pb n="3" facs="tcp:95871:4"/>yet this we underſtand is their preſent deſign and endeavour.</hi> Wherefore (Reverend Bre<g ref="char:EOLhyphen"/>thren) having had ſuch large experience of your zeal of Gods glory, your care of his af<g ref="char:EOLhyphen"/>flicted Church, your earneſt endeavours to promote the compleat Reformation of it, and of your ready concurrence with us in the improvement of any means that might be found conducible to this end; we are bold to hint unto you theſe our enſuing Reaſons againſt the Toleration of Independency in this Church.</p>
+            <p n="1">1. The deſires and endeavours of <hi>Indepen<g ref="char:EOLhyphen"/>dents</hi> for a Toleration, are at this time ex<g ref="char:EOLhyphen"/>treamly unſeaſonable and praeproperous: for,</p>
+            <p n="1">1. The Reformation of Religion is not yet perfected and ſetled among us, according to our Covenant. And why may not the Re<g ref="char:EOLhyphen"/>formation be raiſed up at laſt to ſuch purity and perfection, that truly tender Conſciences may receive abundant ſatisfaction for ought that yet appears?</p>
+            <p n="2">2. It is not yet known what the Govern<g ref="char:EOLhyphen"/>ment of the <hi>Independents</hi> is, neither would they ever yet vouchſafe to let the world know what they hold in that point, though ſome of their party have been too forward to chal<g ref="char:EOLhyphen"/>lenge the <hi>London</hi> Petitioners as <hi>led with blind obedience, and pinning their ſouls upon the Prieſts ſleeve,</hi> for deſiring an eſtabliſhment of the Government of Chriſt, before there was any model of it extant.</p>
+            <p n="3">
+               <pb n="4" facs="tcp:95871:5"/>
+3. We can han hardly be perſwaded, that the <hi>Independents</hi> themſelves (after all the ſtirres they have made amongſt us)<note n="(e)" place="margin">The <hi>Presby<g ref="char:EOLhyphen"/>terians</hi> (although often preſſed thereunto) will not declare wherewith they would be all con<g ref="char:EOLhyphen"/>cluded, how farr they mean to got and where to ſtay in their deſires of Toleration or Condeſcention.</note> 
+               <hi>are as yet fully reſolved about their own way wherewith they would be concluded,</hi> ſeeing they publiſh not their model (though they are nimble e<g ref="char:EOLhyphen"/>nough in publiſhing other things) and they profeſs Reſerves, and new Lights, for which they will (no doubt) expect the like Tolera<g ref="char:EOLhyphen"/>tion, and ſo <hi>in infinitum.</hi> It were more ſea<g ref="char:EOLhyphen"/>ſonable to move for Toleration when once <hi>they are poſitively determined how farr they mean to go, and where they mean to ſtay.</hi>
+            </p>
+            <p n="2">II. Their deſires and endeavours are unrea<g ref="char:EOLhyphen"/>ſonable and unequal in divers regards.</p>
+            <p n="1">1. Partly becauſe no ſuch Toleration hath hitherto been eſtabliſhed (ſo far as we know) in any Chriſtian State by the Civil Magi<g ref="char:EOLhyphen"/>ſtrate.</p>
+            <p n="2">2.<note n="(f)" place="margin">It's notori<g ref="char:EOLhyphen"/>ous, <hi>Presbytery</hi> would not in the late times Tole<g ref="char:EOLhyphen"/>rate <hi>Epiſcopacy.</hi>
+               </note> 
+               <hi>Partly becauſe ſome of them have ſolemn<g ref="char:EOLhyphen"/>ly profeſt, that they cannot ſuffer Presbytery; and anſwerable hereunto, is their practice in thoſe places where Independency prevails.</hi>
+            </p>
+            <p n="3">3. And partly becauſe<note n="(g)" place="margin">To grant Indulgence unto a few, would of<g ref="char:EOLhyphen"/>fend many more of all parties. Why may not <hi>Independents,</hi> and all other Secta<g ref="char:EOLhyphen"/>ries, deſire the ſame favour in caſe they provide Readers or Curates.</note> 
+               <hi>to grant to them and not to other Sectaries who are free born as well as they, and have done as good ſervice as they to the publick</hi> (as they uſe to plead) <hi>will be counted injuſtice and great partiality;</hi> but to grant it unto all, will ſcarce be cleared from great impiety.</p>
+            <p n="3">
+               <pb n="5" facs="tcp:95871:5"/>
+III. <hi>Independency is a Schiſm,</hi> for,</p>
+            <p n="1">1.<note n="(h)" place="margin">Ye already do, and (in caſe your Toleration be granted) will draw our Members from our Congregations, which ye acknow<g ref="char:EOLhyphen"/>ledge true Churches.</note> Independents <hi>do depart from our Churches, being true Churches, and ſo acknow<g ref="char:EOLhyphen"/>ledged by themſelves.</hi>
+            </p>
+            <p n="2">2. <hi>They draw and ſeduce our Members from our Congregations.</hi>
+            </p>
+            <p n="3">3.<note n="(i)" place="margin">Ye do in ef<g ref="char:EOLhyphen"/>fect ſet up ſepa<g ref="char:EOLhyphen"/>rate Churches.</note> 
+               <hi>They erect ſeparate Congregations under a ſeparate and undiſcovered Government.</hi>
+            </p>
+            <p n="4">4.<note n="(k)" place="margin">Ye receive not the Sacra<g ref="char:EOLhyphen"/>ment (except ſome few) in our Churches, but at private Meetings.</note> 
+               <hi>They refuſe Communion with our Churches in the Sacraments.</hi>
+            </p>
+            <p n="5">5. Their Miniſters refuſe to preach among us as Officers.</p>
+            <p n="6">6. Their Members, if at any time they joyn with us in hearing the Word and Prayer, yet they do it not as with the Miniſterial Word and Prayer, nor as acts of Church-Communion.</p>
+            <p>
+               <note n="(l)" place="margin">No Schiſm is to be Tolerated, as ye grant. But Presbytery is a Schiſm <hi>now,</hi> as much as Independency was by you declared to be <hi>then:</hi> Wherefore, according to your own grounds, it is not to be Tolerated.</note> 
+               <hi>Now we judge that no Schiſm is to be Tole<g ref="char:EOLhyphen"/>rated in</hi> the Church,<note n="*" place="margin">Schiſms.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, 1 <hi>Cor.</hi> 1.10. 1 <hi>Cor.</hi> 12.25.<note n="†" place="margin">Diviſions.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Rom.</hi> 6.17. with 1 <hi>Cor.</hi> 3.3. <hi>Gal.</hi> 5.20.</p>
+            <p n="4">
+               <pb n="6" facs="tcp:95871:6"/>
+IV.<note n="(m)" place="margin">Should Preſ<g ref="char:EOLhyphen"/>bytery be Tole<g ref="char:EOLhyphen"/>rated, it would produce all the very ſame evils in Church and State, you affirm Independency (if To<g ref="char:EOLhyphen"/>lerated) would have done; and the ſame reaſons ſtrongly prove, that as Independency was not, ſo Presbytery is not to be Tolerated.</note> Many miſchiefs will inevitably follow upon this Toleration, and that both to Church and Common-wealth.</p>
+            <p>Firſt, to the Church, as,</p>
+            <p n="1">1. <hi>Cauſeleſs and unjuſt revolts from our Mi<g ref="char:EOLhyphen"/>viſtry and Congregations.</hi>
+            </p>
+            <p n="2">2. <hi>Our peoples mindes will be troubled, and in danger to be ſubverted, as</hi> Acts 15.24.</p>
+            <p n="3">3. <hi>Bitter heart-burnings among Brethren will be fomented and perpetuated to po<g ref="char:EOLhyphen"/>ſterity.</hi>
+            </p>
+            <p n="4">4. <hi>The Godly, Painful, and Orthodox Mi<g ref="char:EOLhyphen"/>niſtry will be diſcouraged, and deſpiſed.</hi>
+            </p>
+            <p n="5">5. <hi>The life and power of godlineſs will be eaten out by frivolous Diſputes, and vain Janglings.</hi>
+            </p>
+            <p n="6">6. <hi>The whole courſe of Religion in private Families will be interrupted, and under<g ref="char:EOLhyphen"/>mined.</hi>
+            </p>
+            <p n="7">7. <hi>Reciprocal Duties between perſons of neareſt and deareſt Relations, will be extreamly violated.</hi>
+            </p>
+            <p n="8">8. <hi>The whole work of Reformation, eſpecially in Diſcipline and Government will be retarded, diſturbed, and in danger of being made utterly fruſtrate and void, whilſt every perſon ſhall have liberty upon every trivial diſcontent at
+<pb n="7" facs="tcp:95871:6"/>Presbyterial Government and Churches, to re<g ref="char:EOLhyphen"/>volt from us, and liſt themſelves in ſeparated Congregations.</hi>
+            </p>
+            <p n="9">9. <hi>All other Sects and Hereſies in the King<g ref="char:EOLhyphen"/>dom will be encouraged to endeavour the like To<g ref="char:EOLhyphen"/>leration.</hi>
+            </p>
+            <p n="10">10. <hi>All other Sects and Hereſies in the King<g ref="char:EOLhyphen"/>dom will ſafeguard and ſhelter themſelves un<g ref="char:EOLhyphen"/>der the wings of</hi> Independency, <hi>and ſome of the</hi> Independents <hi>in their Books have openly avowed, that they plead for Liberty of Conſci<g ref="char:EOLhyphen"/>ence as well for others, as for themſelves,</hi>
+            </p>
+            <p n="11">11. <hi>And the whole Church of</hi> England <hi>in ſhort time will be ſwallowed up with diſtra<g ref="char:EOLhyphen"/>ction and confuſion. And</hi> God is not <hi>the Au<g ref="char:EOLhyphen"/>thour</hi> of confuſion, but of peace, 1 <hi>Corinth.</hi> 14.33.</p>
+            <p>Secondly, To the Common-wealth. For,</p>
+            <p n="1">1. <hi>All theſe miſchiefs in the Church will have their proportionable influence upon the Com<g ref="char:EOLhyphen"/>mon-wealth.</hi>
+            </p>
+            <p n="2">2. <hi>The Kingdome will be wofully weakened by Scandals and Diviſions; ſo that the enemies of it, both Domeſtical and Forreign, will be encouraged to plot and practice againſt it.</hi>
+            </p>
+            <p n="3">3. <hi>It is much to be doubted, leſt the Power of the Magiſtrate, ſhould not only be weakened, but even utterly overthrown, conſidering the principles and practices of</hi> Independents, <hi>to<g ref="char:EOLhyphen"/>gether with their compliance with other Secta<g ref="char:EOLhyphen"/>ries, ſufficiently known to be Anti-Magiſtratical.</hi>
+            </p>
+            <p n="5">
+               <pb n="8" facs="tcp:95871:7"/>
+V. Such a Toleration is utterly repugnant and inconſiſtent with that Solemn League and Covenant, for Reformation and Defence of Religion, which not only both Houſes of Parliament, but alſo perſons of all ſorts in both Kingdomes of <hi>England</hi> and <hi>Scotland,</hi> have ſubſcribed, and with hands lifted up to the moſt High God, have ſworn: Which Covenant likewiſe, both you, and we, and thoſe that moſt earneſtly purſue the eſtab<g ref="char:EOLhyphen"/>liſhment of this Toleration, have made, (or ſhould have made) <hi>in the preſence of Al<g ref="char:EOLhyphen"/>mighty God, the ſearcher of all hearts, with a true intention to perform the ſame, as we ſhall anſwer at that great day, when the ſecrets of all hearts ſhall be diſcloſed.</hi> For,</p>
+            <p n="1">1. <hi>This is oppoſite to the Reformation of Re<g ref="char:EOLhyphen"/>ligion, according to the Word of God, and the example of the beſt Reformed Churches,</hi> Article 1.</p>
+            <p n="2">2.<note n="(n)" place="margin">The Tolera<g ref="char:EOLhyphen"/>tion of Presby<g ref="char:EOLhyphen"/>tery is no leſs de<g ref="char:EOLhyphen"/>ſtructive to the Conjunction and Uniformity of all the three Kingdoms, then Independency.</note> It is deſtructive to the <hi>three King<g ref="char:EOLhyphen"/>doms neareſt conjunction and uniformity in Religion and Government, which might lead us and our Poſterity after us as Brethren to live in Faith and Love.</hi> Art. 1.</p>
+            <p n="3">
+               <pb n="9" facs="tcp:95871:7"/>
+3.<note n="(o)" place="margin">Seeing Preſ<g ref="char:EOLhyphen"/>bytery is as much a <hi>Schiſm</hi> from <hi>Epiſcopacy,</hi> as Epiſcopacy or Independency was from Preſ<g ref="char:EOLhyphen"/>bytery, why do ye now, inſtead of extirpation, deſire the Toleration of it, contrary to your <hi>Covenant?</hi>
+               </note> 
+               <hi>It is plainly contrary to that extirpa<g ref="char:EOLhyphen"/>tion of Schiſm, and whatſoever ſhall be found contrary to ſound Doctrine, and the power of Godlineſs, which we have ſworn ſincerely, really, and conſtantly to endeavour without reſpect of perſons.</hi> Art. 2.</p>
+            <p n="4">4.<note n="(p)" place="margin">Toleration of <hi>Schiſm</hi> ren<g ref="char:EOLhyphen"/>dereth Mag<g ref="char:EOLhyphen"/>ſtrates and M<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ni<g ref="char:EOLhyphen"/>ſters acceſſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ry to the Errors, Sins, and Deſtruction of Seduced and Deluded people.</note> 
+               <hi>Hereby we ſhall be involved in the guilt of other mens ſins, and thereby be endan<g ref="char:EOLhyphen"/>gered to receive of their plagues.</hi> Art 2.</p>
+            <p n="5">5. It ſeems utterly impoſſible (if ſuch a Toleration ſhould be granted) that the <hi>Lord ſhould be one, and his name one in the three Kingdoms.</hi> Art. 2.</p>
+            <p n="6">6. <hi>This will palpably hinder the Reformation of Religion, inevitably divide one Kingdome from another, and unhappily make Factions and Parties among the people, contrary to this League and Covenant;</hi> of which evil Offices, whoſo<g ref="char:EOLhyphen"/>ever ſhall be found guilty, are reputed in the words of the Covenant,<note n="(q)" place="margin">The Tolera<g ref="char:EOLhyphen"/>tion of deformi<g ref="char:EOLhyphen"/>ty, even in little matters, ſome<g ref="char:EOLhyphen"/>times cauſeth Factions and Parties amongſt the people. Let us have a care we be not <hi>Incendiaries, or evil Inſtruments</hi> for <hi>Sacrilegious Spirits</hi> to work by, ill-affected as well to <hi>Presbytery</hi> as <hi>Epiſcopacy.</hi>
+               </note> 
+               <hi>Incendiaries, Ma<g ref="char:EOLhyphen"/>lignants, or evil Inſtruments, to be diſcovered, that they may be brought to publick tryal, and receive condigne puniſhment,</hi> Art. 4. and 5.</p>
+            <p>
+               <pb n="10" facs="tcp:95871:8"/>
+Theſe are ſome of the many conſiderati<g ref="char:EOLhyphen"/>ons which make deep impreſſion upon our Spirits againſt that great <hi>Diana</hi> of <hi>Indepen<g ref="char:EOLhyphen"/>dents,</hi> and all the Sectaries ſo much cryed up by them in theſe diſtracted times, <hi>viz. A To<g ref="char:EOLhyphen"/>leration, a Toleration.</hi> And however, none ſhould have more rejoyced then our ſelves in the eſtabliſhment of a Brotherly, Peaceable, and Chriſtian Accommodation: yet this be<g ref="char:EOLhyphen"/>ing utterly rejected by them, we cannot diſ<g ref="char:EOLhyphen"/>ſemble how upon the fore-mentioned grounds, we deteſt and abhor the much endeavoured Toleration, Our bowels, our bowels, are ſtir<g ref="char:EOLhyphen"/>red within us, and we could even drown our ſelves in tears, when we call to minde how long and ſharp a travel this Kingdom hath been in for many years together, to bring forth that bleſſed fruit of a pure and perfect Refor<g ref="char:EOLhyphen"/>mation; and now at laſt after all our pangs and dolors, and expectations, this real and through Reformation, is in danger of being ſtrangled in the Birth by a lawleſs Toleration, that ſtrives to be brought forth before it.</p>
+            <p>Wherefore (Reverend and Beloved Bre<g ref="char:EOLhyphen"/>thren) we could not ſatisfie our ſelves till we had made ſome diſcovery of our thoughts unto you about this matter; not that we can harbour the leaſt jealouſie of your zeal, fidelity, or in<g ref="char:EOLhyphen"/>duſtry in the oppoſing and extirpating of ſuch a root of gall and bitterneſs as Toleration is and will be, both in preſent and future Ages; but that we may what lies in us endeavour mutu<g ref="char:EOLhyphen"/>ally
+<pb n="11" facs="tcp:95871:8"/>to ſtrengthen one anothers reſolutions a<g ref="char:EOLhyphen"/>gainſt the preſent growing evils, and that our conſciences may not ſmite us another day for ſinful ſilence, or ſluggiſh deficiency in any point of duty tending to the Glory of Chriſt, Honour of the Truth, Peace of the Church, Perfection of Reformation, Performance of our Covenant, and Benefit of preſent and ſucceeding Generations.</p>
+            <closer>
+               <dateline>From <hi>Sion Colledge,</hi> London, <date>Decemb. 18. 1645.</date>
+               </dateline>
+               <signed>Subſcribed by us your affectionate Brethren and Fellow-La<g ref="char:EOLhyphen"/>bourers in the work of the Miniſtery, to whom truth and peace is very precious.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
